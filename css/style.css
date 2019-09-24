@@ -159,7 +159,7 @@ header {
 }
 
 .intro a {
-	color:#000;
+	color:#fff;
 }
 
 /* --- Parallax --- */
@@ -178,13 +178,14 @@ header {
 /* --- Heading --- */
 .heading {
 	padding-bottom:15px;
-	text-align:center;
+	text-align: left;
 	max-width:960px;
 	margin:0px auto;
 	padding-top:80px;
 }
 .heading h2 {
 	font-weight:700;
+	text-align: center;
 	font-family:'Playball',cursive;
 	font-size:35px;
 	color:#333;
