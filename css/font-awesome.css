@@ -11,6 +11,7 @@
   font-weight: normal;
   font-style: normal;
 }
+.rounded-circle{border-radius:50%!important}
 .fa {
   display: inline-block;
   font-family: FontAwesome;
